@@ -47,8 +47,8 @@ Script ini di modifikasi sama saya dkk.
 ```bash
 > kalo lu belum punya apk termux, download di playstore
 > masuk ke apk termux lalu ketik dibawah ini!
-> git clone https://github.com/HAFizh-15/TERMOS-WABOT
-> cd TERMOS-WABOT
+> git clone https://github.com/belajarbuatbot/botwe
+> cd botwe
 > bash install.sh
 > node index js
 > Tinggal scan kode qr yeee...done
@@ -112,14 +112,14 @@ DAN LAIN LAIN
 Ket: Aktif 24 jam
 
 # DONASI
-* [`Saweria`](https://saweria.co/HAFizhscript)
+* [`Saweria`](https://saweria.co/Bngjek)
 * [`Ko-Fi`](https://ko-fi.com/shirayukibot)
 * [`TrakTeer`](https://trakteer.id/shirayuki)
 
 
 ## SOSIAL MEDIA ADMIN
 
-* [`WhatsApp Admin `](https://wa.me/+6285959375675)
+* [`WhatsApp Admin `](https://wa.me/+6285832079751)
 * [`Group WhatsApp `](https://chat.whatsapp.com/GejprPqHNQW3cBDuKtb7UX)
 ## THANKS TO
 * [`TO27BOT`](https://github.com/MhankBarBar/termux-wabot)
